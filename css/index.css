@@ -1,0 +1,105 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.head{
+	width: 1080px;
+	height: 168px;
+	background-color: #00A5C4;
+}
+.jisuanqi{
+	line-height: 168px;
+	color: #fff;
+	font-weight: 300;
+	margin-left: 50px;
+	font-size: 52px;
+	float: left;
+}
+.dian{
+	width: 13px;
+	height: 53px;
+	background-color: #00A5C4;
+	float: right;
+	margin-top: 57.5px;
+	margin-right: 65px;
+}
+.yuan{
+	width: 13px;
+	height: 13px;
+	background-color: white;
+	border-radius: 6.5px;
+}
+.yuan1{
+	margin-top: 7px;
+	margin-bottom: 7px;
+}
+.kongbai{
+	width: 1080px;
+	height: 561px;
+	background-color: #F0F0F0;
+}
+.gundongtiao{
+	width: 4px;
+	height: 165px;
+	background-color: #00A5C4;
+	float: right;
+	margin-top: 18px;
+	margin-right: 33px;
+}
+.xiala{
+	width: 1080px;
+	height: 102px;
+	background-color: #DFE3E4;
+	overflow: hidden;
+}
+.jiaobiao{
+	width: 64px;
+	height: 31px;
+	background-color: yellow;
+	margin: 0 auto;
+	margin-top: 34px;
+}
+.jianpan{
+	width: 1080px;
+	height: 1089px;
+	background-color: #DFE3E4;
+}
+.btn{
+	width: 265px;
+	height: 214px;
+	background-color: #fff;
+	float: left;
+	margin-right: 6px;
+	margin-bottom: 6px;
+	color: #32626B;
+	line-height: 214px;
+	text-align: center;
+	font-size: 84px;
+	font-family: "苹方";
+}
+.btn2{
+	margin-right: 0;
+}
+.btn3{
+	width: 266px;
+}
+.btn4{
+	height: 209px;
+	color: #32626B;
+	line-height: 206px;
+	text-align: center;
+	font-size: 84px;
+	font-family: "苹方";
+}
+.btn5{
+	background-color: #f2f4f4;
+	color: #4E95D7;
+	line-height: 214px;
+	text-align: center;
+	font-size: 84px;
+	font-family: "苹方";
+}
+.btn6{
+	color: #4BAE50;
+	font-size: 100px;
+}
